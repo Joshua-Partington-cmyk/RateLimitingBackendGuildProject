@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "V0bNJadGkxo=",
+  "dgSpecHash": "AesUbAW8zrY=",
   "success": true,
   "projectFilePath": "/Users/joshua.partington1/projects/RateLimitingBackendGuildProject/RateLimitingBackendGuildProject.AppHost/RateLimitingBackendGuildProject.AppHost.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,8 @@
     "/Users/joshua.partington1/.nuget/packages/aspire.hosting/13.2.2/aspire.hosting.13.2.2.nupkg.sha512",
     "/Users/joshua.partington1/.nuget/packages/aspire.hosting.apphost/13.2.2/aspire.hosting.apphost.13.2.2.nupkg.sha512",
     "/Users/joshua.partington1/.nuget/packages/aspire.hosting.orchestration.osx-arm64/13.2.2/aspire.hosting.orchestration.osx-arm64.13.2.2.nupkg.sha512",
+    "/Users/joshua.partington1/.nuget/packages/aspire.hosting.redis/13.2.2/aspire.hosting.redis.13.2.2.nupkg.sha512",
+    "/Users/joshua.partington1/.nuget/packages/aspnetcore.healthchecks.redis/9.0.0/aspnetcore.healthchecks.redis.9.0.0.nupkg.sha512",
     "/Users/joshua.partington1/.nuget/packages/aspnetcore.healthchecks.uris/9.0.0/aspnetcore.healthchecks.uris.9.0.0.nupkg.sha512",
     "/Users/joshua.partington1/.nuget/packages/fractions/7.3.0/fractions.7.3.0.nupkg.sha512",
     "/Users/joshua.partington1/.nuget/packages/google.protobuf/3.33.5/google.protobuf.3.33.5.nupkg.sha512",
@@ -65,8 +67,10 @@
     "/Users/joshua.partington1/.nuget/packages/modelcontextprotocol.core/1.0.0/modelcontextprotocol.core.1.0.0.nupkg.sha512",
     "/Users/joshua.partington1/.nuget/packages/nerdbank.streams/2.12.87/nerdbank.streams.2.12.87.nupkg.sha512",
     "/Users/joshua.partington1/.nuget/packages/newtonsoft.json/13.0.4/newtonsoft.json.13.0.4.nupkg.sha512",
+    "/Users/joshua.partington1/.nuget/packages/pipelines.sockets.unofficial/2.2.8/pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
     "/Users/joshua.partington1/.nuget/packages/polly.core/8.6.5/polly.core.8.6.5.nupkg.sha512",
     "/Users/joshua.partington1/.nuget/packages/semver/3.0.0/semver.3.0.0.nupkg.sha512",
+    "/Users/joshua.partington1/.nuget/packages/stackexchange.redis/2.11.0/stackexchange.redis.2.11.0.nupkg.sha512",
     "/Users/joshua.partington1/.nuget/packages/streamjsonrpc/2.22.23/streamjsonrpc.2.22.23.nupkg.sha512",
     "/Users/joshua.partington1/.nuget/packages/system.diagnostics.eventlog/10.0.5/system.diagnostics.eventlog.10.0.5.nupkg.sha512",
     "/Users/joshua.partington1/.nuget/packages/system.io.hashing/10.0.3/system.io.hashing.10.0.3.nupkg.sha512",
