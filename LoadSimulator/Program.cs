@@ -13,7 +13,6 @@ var cts = new CancellationTokenSource();
 Console.CancelKeyPress += (_, e) => { e.Cancel = true; cts.Cancel(); };
 
 Console.WriteLine($"Starting load simulation against {apiBaseUrl}");
-Console.WriteLine("Press Ctrl+C to stop\n");
 
 var tasks = clients.Select(c => SimulateClient(c.Item1, c.Item2, apiBaseUrl, cts.Token));
 await Task.WhenAll(tasks);

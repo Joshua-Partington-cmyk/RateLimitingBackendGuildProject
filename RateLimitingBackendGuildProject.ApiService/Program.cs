@@ -1,3 +1,4 @@
+using RateLimitingBackendGuildProject.ApiService.Config;
 using RateLimitingBackendGuildProject.ApiService.Endpoints;
 using RateLimitingBackendGuildProject.ApiService.Middleware;
 
@@ -5,6 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.AddServiceDefaults();
 builder.Services.AddProblemDetails();
+builder.Services.AddSingleton<ClientStore>();
 builder.Services.AddOpenApi();
 
 var app = builder.Build();
