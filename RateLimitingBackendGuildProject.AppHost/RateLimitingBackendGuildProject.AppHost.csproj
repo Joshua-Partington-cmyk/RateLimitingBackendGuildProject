@@ -9,6 +9,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <ProjectReference Include="..\LoadSimulator\LoadSimulator.csproj" />
         <ProjectReference Include="..\RateLimitingBackendGuildProject.ApiService\RateLimitingBackendGuildProject.ApiService.csproj"/>
     </ItemGroup>
 
