@@ -13,4 +13,8 @@
         <ProjectReference Include="..\RateLimitingBackendGuildProject.ApiService\RateLimitingBackendGuildProject.ApiService.csproj"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Aspire.Hosting.AppHost" Version="13.2.2" />
+    </ItemGroup>
+
 </Project>
