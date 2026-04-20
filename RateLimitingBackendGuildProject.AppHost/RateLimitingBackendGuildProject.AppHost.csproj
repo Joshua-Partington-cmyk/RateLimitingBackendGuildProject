@@ -10,7 +10,6 @@
 
     <ItemGroup>
         <ProjectReference Include="..\RateLimitingBackendGuildProject.ApiService\RateLimitingBackendGuildProject.ApiService.csproj"/>
-        <ProjectReference Include="..\RateLimitingBackendGuildProject.Web\RateLimitingBackendGuildProject.Web.csproj"/>
     </ItemGroup>
 
 </Project>

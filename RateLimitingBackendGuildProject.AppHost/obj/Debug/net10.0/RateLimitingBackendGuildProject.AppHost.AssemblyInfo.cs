@@ -27,7 +27,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RateLimitingBackendGuildProject.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c054451b27c468a833f8e2308ca23444b9cdd4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("RateLimitingBackendGuildProject.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RateLimitingBackendGuildProject.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

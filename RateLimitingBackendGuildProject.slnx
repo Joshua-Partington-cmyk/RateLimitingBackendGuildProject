@@ -2,5 +2,4 @@
   <Project Path="RateLimitingBackendGuildProject.ApiService/RateLimitingBackendGuildProject.ApiService.csproj" />
   <Project Path="RateLimitingBackendGuildProject.AppHost/RateLimitingBackendGuildProject.AppHost.csproj" />
   <Project Path="RateLimitingBackendGuildProject.ServiceDefaults/RateLimitingBackendGuildProject.ServiceDefaults.csproj" />
-  <Project Path="RateLimitingBackendGuildProject.Web/RateLimitingBackendGuildProject.Web.csproj" />
 </Solution>
